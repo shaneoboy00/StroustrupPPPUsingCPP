@@ -1,0 +1,39 @@
+Answers to Chapter 1 Review Questions
+
+1. Software is a collection of programs running on some computer.
+
+2. Software is important because it is what our human civilization runs on.
+
+3. Software is important in devices including telephones, cameras, bread makers, cars, and wind turbines; it is important in servers, desktop computers, laptops, tablets, smartphones, and computers embedded in "gadgets"; it is important for planning, transport, and storage and for the management of distribution networks; it is important for modern farming; it is important for writing newspaper articles; it is important for printing books; it is important for monitoring traffic flows; it is important for operating the subsystems of trains; it is important for the entertainment industry; it is important for running medical equipment and monitoring patient records; it is important for oil extraction, processing, and distribution; it is important for the operation of coal, gas, solar, and wind power energy facilities; it is important for scientific research.
+
+4. We can become annoyed as end users if software fails to perform the designed tasks. People can also be hurt by devices that are malfunctioning due to unreliable software.
+
+5. Software plays an important role in the shipping industry, in the entertainment industry, in the medical professions, in our daily lives, and in scientific research.
+
+6. Some jobs related to software development include programmers, program designers, testers, animators, focus group managers, experimental psychologists, user interface designers, analysts, system administrators, customer relations people, sound engineers, project managers, quality engineers, statisticians, hardware interface engineers, requirements engineers, safety officers, mathematicians, sales support personnel, troubleshooters, network designers, methodologists, software tools managers, and software librarians.
+
+7. According to Wikipedia, computer science is the study of the theoretical foundations of information and computation and their implementation and application in computer systems. Programming is a fundamental tool for expressing solutions to fundamental and practical problems so that they can by tested, improved through experiment, and used.
+
+8. In the design of a ship, software is used for applications including ship and engine design, architectural and engineering drawings, general calculations, visualization of spaces and parts, and simulations on the performance of parts. In the construction of a ship, software is used for the careful planning of and assembly of the ship including the operation of welding robots and cutting steel plates. In the use of a ship, software is used for the operation of the engine using electronic fuel injection and pumps, the scheduling of fleets of ships for picking up and delivering cargo, and the monitoring of accurate weather information through GPS and radar for the safety of the ship's crew.
+
+9. A server farm is a collection of computers providing web services.
+
+10. The kinds of queries that I ask online include "Is my 12:30 flight to Chicago still on time?" and "Has Gilbert Sullivan had the measles?".
+
+11. Some uses of software in science include the control programs for the Mars Rovers in space programs, the design and production of the computers that run the Rovers, and the processing of the images that the Rovers send back to Earth.
+
+12. Some uses of software in medicine include CAT (computed axial tomography) and computer-aided surgery.
+
+13. Some uses of software in entertainment include the production and delivery of music, movies, television, and stage shows.
+
+14. The general properties that we expect from good software are correctness, reliability, good design, and affordability.
+
+15. A software developer looks like a person who regularly collaborates with others including biologists, engine designers, lawyers, car salesmen, medical ressearchers, historians, geologists, astronauts, airplane engineers, lumberyard managers, rocket scientists, bowling alley builders, journalist, animators, and their own co-workers.
+
+16. The stages of software development are analysis, design, programming, and testing. Programming and testing can be combined into a single step called implementation.
+
+17. Software development can be difficult because people assume "common sense" while computers can only be made to understand instructions through well-designed programs, aspects of the problem can oftentimes be overlooked by the programmers when they are developing software, programmers need feedback from others, and directly expressing ideas into code can be challenging.
+
+18. Some of the uses of software that make my life easier include calling and texting on my phone, watching television, and listening to music.
+
+19. Some of the uses of software that maky my life more difficult include job applications, checking my email inbox, and applying for insurance.
