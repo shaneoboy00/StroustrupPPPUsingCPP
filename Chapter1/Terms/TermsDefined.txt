@@ -1,0 +1,37 @@
+Chapter 1 Terms Defined
+
+affordability - It is the monetary cost of the combination of software and the maintenance and initial cost of the devices run using said software.
+
+analysis - It is the process of breaking up a large problem into smaller, more manageable, and logically-tracable steps to make the problem easier to solve.
+
+blackboard - It is a board colored black that often hangs on the wall of a room inside a building and is drawn on using sticks of chalk.
+
+CAD/CAM - It is the set of acronyms that stand for computer-aided design (CAD) and computer-aided manufacture (CAM).
+
+communication - It is the method of extracting ideas out of the minds of people so that they can be exchanged with others.
+
+correctness - It is the level of exact specification that the program must meet in order to be able to carry out the desired task without mistakes.
+
+customer - It is the human recipient of a product or service.
+
+design - It is a list of things including architectural and engineering drawings, general calculations, visualization of spaces and parts, and simulations of the performance of parts.
+
+feedback - It is the output of a process - either the process itself or another human overlooking said process - that can lead to improvement of the process.
+
+GUI - It is an acronym that stands for graphical user interface (GUI).
+
+ideals - They are abstract ideas that drive people to perform tasks over a period of years to make the world a better place for people to live in.
+
+implementation - It is the combination of the steps of programming and testing in the software development cycle.
+
+programmer - It is someone who programs software using a coding language.
+
+programming - It is a fundamental tool for expressing solutions to fundamental and practical problems so that they can be tested, improved through experiment, and used.
+
+software - It is a collection of programs running on some computer.
+
+stereotype - It is a common observed set of behaviors or characteristics of class of object or subject that becomes the standard, very simplified description of that class.
+
+testing - It is the systematic trying out of the code to make sure that it works correctly under all of the required circumstances for a specific system.
+
+user - It is the person who is using the product or service - directly or indirectly - that runs on software.
