@@ -1,0 +1,23 @@
+Answers to Chapter 2 Review Questions
+
+1. The purpose of the "Hello, World!" program is to let me try my programming environment and to give me a first feel of how I can get a computer to do things for me.
+
+2. The four parts of a function include (1) a return type which a function will return to whoever asked for it to be executed, (2) a name for the function, (3) a parameter list enclosed in parentheses, and (4) a function body enclosed in a set of "curly braces," { }, which lists the actions (called statements) that the function is to perform.
+
+3. The function that must appear in every C++ program is the main function.
+
+4. In the "Hello, World!" program, the purpose of the line return 0; is to check whether the program succeeded when executed on some systems including those running Unix/Linux operating systems. Returning a value of zero (0) means that the main function executed successfully and thus the program executed successfully.
+
+5. The purpose of the compiler is to translate the program from the human-readable form to something a machine can "understand" to get the program to run. The human-readable code is translated by the compiler into an executable, into object code, or into machine code. The compiler reads the human-readable source code, ignoring comments, to see if the program is grammatically correct, if every word has a defined meaning, and if there is anything obviously wrong that can be detected without trying to actually execute the program.
+
+6. The purpose of the #include directive is to instruct the computer to make available ("to include") facilities from a header file that contains the required facilities for the program that are not readily available in the program itself and that could not be included in the program without making the programs unnecessarily long and convoluted.
+
+7. A .h suffix at the end of a file in C++ signifies a header file. A header file contains definitions of terms such as cout that are used in programs.
+
+8. The linker links together the object code files that result from compilation of the human-written code and the included parts of the C++ standard library from header files, together called translation units, to form an executable program.
+
+9. The difference between a source file and an object file is that a source file contains human-readable code while an object file contains code created by the compiler from the source files.
+
+10. An IDE ("interactive development environment" or "integrated development environment") is an environment that many professional programmers use and includes an editor with helpful features like color coding to help distinguish between comments, keywords, and other parts of the program source code, plus other facilities to help the programmer debug their code, compile it, and run it.
+
+11. If I understand everything in the textbook, it is necessary to practice because repetition and practice are necessary to develop programming skills. Programming is like any other skill-based craft and requires getting programs to run to develop practical skills and good programming habits on tha part of the programmer.

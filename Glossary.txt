@@ -1,0 +1,41 @@
+Stroustrup Practice C++ DIY Glossary (note: add to list from subsequent chapters, i.e. following Chapter 2)
+
+// - anything written after this token on a line is a comment.
+
+<< - characters appearing after this operator will appear on the screen.
+
+C++ - it is a programming language designed for a wide selection of programming tasks.
+
+comment - it is ignored by the compiler and written for the benefit of programmers who read the code.
+
+compiler - it is a program that changes source code or program text into an executable, object code, or machine code.
+
+compile-time error - it includes left out details from the program such as an #include file, a semicolon or a curly brace, or spelling mistakes. They are found by the compiler and prevent the compiler from compiling the program.
+
+cout - it is the keyword that allows a standard output stream.
+
+executable - it is the code produced by the linker combining object files provided by the C++ standard library and the C++ compiler. It is what allows the program to run and produce output.
+
+function - it is a named sequence of instructions for the computer to execute in the order in which they are written. It has four parts: (1) a return type, (2), a name, (3), a parameter list, and (4) a function body.
+
+header - it is a file included in a program that uses #include, usually has the suffix .h, and contains definitions of terms, such as cout, that are used in the program.
+
+IDE - an "interactive development environment" or "integrated development environment" is a part of a programmer's tool set or "program development environment" and constitutes an editor with helpful features like color coding to help distinguish between comments, keywords, and other parts of the program source code, plus other facilities to help the programmer debug their code, compile it, and run it.
+
+#include - it is a directive that instructs the computer to make available facilities from a header file.
+
+library - it is simply some code that the programmer accesses using declarations found in an #included file.
+
+linker - it is the program that links together object code files in order to make an executable program.
+
+main() - it is the function that must be present in the source code of any C++ program.
+
+object code - it is the code that is written by the compiler from reading the source code.
+
+output - it is what appears on the screen after executing a program.
+
+program - it is a description of "what to do" for the computer to do something and includes excrutiating detail.
+
+source code - it is the program text that the programmer reads and writes.
+
+statement - it is a part of a C++ program that specifies an action and is not an #include directive or some other preprocessor directive.
